@@ -1,0 +1,12 @@
+Score = 94
+getLongestAscendingRun(List) passed. (10 marks)
+Ball:diameter() passed (5 marks)
+indexOfHigherThan(int[], int) passed (10 marks)
+countNegatives(int[]) passed (10 marks)
+containsPositive(int[]) passed (10 marks)
+Box:setSide(double) passed (9 marks)
+compareTo(Ball) passed (15 marks)
+countSquares(ArrayList<Rectangle>) passed (10 marks)
+Box(double) passed (5 marks)
+sumNotOnBoundaries(ArrayList<Integer>) passed (10 marks)
+
